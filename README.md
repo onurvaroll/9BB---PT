@@ -1,3 +1,4 @@
 # 9BB---PT
-## Pogramlama Temelleri
-Onur varol
+## Programlama Temelleri
+- Onur varol
+* Murat Kaya
