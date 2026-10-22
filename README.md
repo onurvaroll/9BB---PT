@@ -1,2 +1,3 @@
 # 9BB---PT
-Programlama Temelleri Dersi
+## Pogramlama Temelleri
+Onur varol
